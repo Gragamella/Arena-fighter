@@ -58,3 +58,6 @@ TagManager:
   - name: Player
     uniqueID: 4159815139
     locked: 0
+  - name: Oggetti-consumabili
+    uniqueID: 1573733537
+    locked: 0
